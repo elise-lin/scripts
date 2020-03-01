@@ -1,5 +1,5 @@
 #!/bin/bash
-# Pretty shitty script that prints out curr line then deletes it
+# Pretty shitty script that prints out curr line then deletes it just so I don't have to vim all da time
 
 FILE="ucr_mfa_passcodes.txt"
 
